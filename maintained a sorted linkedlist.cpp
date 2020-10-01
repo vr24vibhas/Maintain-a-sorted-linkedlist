@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std
+using namespace std;
 
 //creating a class of node type
 class Node {
