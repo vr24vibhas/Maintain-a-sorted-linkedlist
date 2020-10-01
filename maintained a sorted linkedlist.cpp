@@ -33,7 +33,7 @@ class create_head {
 			head = n;
 		}
         
-}
+};
 
 //Function for creation of inserting Node 
 Node * create_node(int d) {
