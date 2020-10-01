@@ -18,7 +18,7 @@ class Node {
 			next = NULL;
 		}
 
-}
+};
 
 //creating a class for head creation 
 class create_head {
